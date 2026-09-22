@@ -13,7 +13,7 @@ Logs
 https://stitch.withgoogle.com/projects/3497662635513021678?node-id=f8e5cde25de84ca895f6f9ca52179698
 
 Scan: Screen
-https://stitch.withgoogle.com/projects/3497662635513021678?node-id=13c2f839ffe642ed9ceaaa8a958f45b2
+https://stitch.withgoogle.com/projects/3497662635513021678?node-id=5386d4dea1384bfc81e48710b6731fca
 
 Correction Request
 https://stitch.withgoogle.com/projects/3497662635513021678?node-id=f16f2214533e4a94acfdf98f71c85c39
