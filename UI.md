@@ -1,8 +1,5 @@
 # Smart_Attendance_P1C
 
-Sign In
-https://www.figma.com/design/bmjjzJcn2b9P8EzoDwW6CV/Untitled?node-id=2-2&t=0SMZkBc0vQ1NEOx8-4
-
 Welcome
 https://stitch.withgoogle.com/projects/3497662635513021678?node-id=239733e917c64ccc8c65790415d571da
 
